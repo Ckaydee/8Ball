@@ -1,0 +1,17 @@
+body {
+  width: 500px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: rgb(206, 28, 212);
+  padding: 25px;
+  border-radius: 8px;
+  border: 2px solid black;
+}
+#btn:hover {
+  cursor: pointer;
+}
+
+html {
+  background-image: linear-gradient(to bottom right, red, blue);
+  background-size: 100% 1200px;
+}
